@@ -1,0 +1,34 @@
+Ticker,Summary,Label,Confindence,URL
+GME,"Net loss was $50.5 million for the period, compared to a loss of $157.9 million for the prior year’s first quarter.",NEGATIVE,0.9993355870246887,https://finance.yahoo.com/news/gamestop-discloses-first-quarter-2023-201500165.html
+GME,Report tries to nail down what candidates want from an MBA. More than half of Gen Z candidates applying to MBA programs.,NEGATIVE,0.9983149766921997,https://finance.yahoo.com/news/gen-z-roi-mba-more-181935654.html
+GME,"Affirm, Stitch Fix, Campbell Soup report better-than-expected results.",POSITIVE,0.9971166849136353,https://finance.yahoo.com/news/midday-movers-affirm-stitch-fix-141723392.html
+GME,All images are copyrighted.,NEGATIVE,0.9880996346473694,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BGME%26tbm%3Dnws%26pccc%3D1
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/news/12-best-short-squeeze-stocks-120213885.html
+GME,EWMC seeks to replicate the performance of the S&P MidCap 400 Equal Weight Index.,NEGATIVE,0.9927782416343689,https://finance.yahoo.com/news/invesco-p-midcap-400-equal-102008681.html
+GME,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://ca.finance.yahoo.com/news/gamestop-stock-tanks-after-company-fires-ceo-123910339.html
+GME,Apple’s Worldwide Developers Conference on Monday. Earnings will continue to wind down with results from meme stock favorite GameStop,NEGATIVE,0.999107301235199,https://finance.yahoo.com/news/debt-ceiling-done-fed-goes-quiet-what-to-watch-this-week-130054402.html
+GME,"Ryan, I’m writing to express frustration with your management team and business.",NEGATIVE,0.9974145889282227,https://finance.yahoo.com/news/an-open-letter-to-gamestop-executive-chairman-ryan-cohen-morning-brief-100037724.html
+GME,Investors digested fresh economic data ahead of next week's Fed meeting.,POSITIVE,0.9027295708656311,https://finance.yahoo.com/news/stocks-rise-sp-500-enters-new-bull-market-stock-market-news-today-200316428.html
+GME,.,POSITIVE,0.9668781757354736,https://www.thestreet.com/retail/meme-stock-gamestop-just-did-something-impressive
+TSLA,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/tesla-ev-stocks-lead-rally-205716138.html
+TSLA,All images are copyrighted.,NEGATIVE,0.9880996346473694,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BTSLA%26tbm%3Dnws%26pccc%3D1
+TSLA,Shares of smaller EV rivals have rallied in recent days. Tesla has seen its market cap move back over $800 billion,NEGATIVE,0.6760101914405823,https://finance.yahoo.com/news/ev-stocks-join-ai-names-in-leading-the-stock-market-rally-165234734.html
+TSLA,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/musk-focusing-tesla-not-twitter-211635694.html
+TSLA,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://ca.finance.yahoo.com/news/tesla-stocks-dazzling-rally-thanks-200311505.html
+TSLA,Tesla had sought to overturn ban on direct car sales. Claim was part of electric carmaker’s strategy to overturn bans,NEGATIVE,0.9802840352058411,https://finance.yahoo.com/news/1-tesla-loses-bid-overturn-200604380.html
+TSLA,"‘It’s going to be a boom,’ O’Leary says of new truck. Model could add 10% to 12% to Tesla’s margins",POSITIVE,0.9913261532783508,https://finance.yahoo.com/news/kevin-oleary-teslas-cybertruck-has-a-really-ugly-look-but-the-demand-is-huge-100022692.html
+TSLA,EV maker has added $194 billion to market valuation in 11 days. GM’s decision to adapt Superchargers to Tesla’s network,NEGATIVE,0.9145389795303345,https://finance.yahoo.com/news/tesla-record-run-gains-drives-143055513.html
+TSLA,Raw demand to travel has been strong for Memorial Day weekend and now into July.,POSITIVE,0.9988893866539001,https://finance.yahoo.com/news/tesla-and-apple-arent-the-only-stocks-on-a-sizzling-run--check-out-airline-stocks-160903459.html
+TSLA,"Retail traders are dumping EV stocks, Vanda says. Musk has long been vocal about the dangers of AI",NEGATIVE,0.9931546449661255,https://finance.yahoo.com/news/investors-pouring-money-tesla-because-022311782.html
+TSLA,"All versions of the Model 3 now qualify for full federal EV tax credit. Tesla Model 3 RWD version now costs $32,740 with full credit.",NEGATIVE,0.9905866980552673,https://finance.yahoo.com/news/tesla-stock-surges-as-all-model-3-sedans-now-qualify-for-full-ev-tax-credit-141823296.html
+BTC,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://uk.finance.yahoo.com/news/bitcoin-price-sam-bankman-fried-trial-us-090726033.html
+BTC,"‘Extremely clear,’ Swan Bitcoin’s Lubka says. Coin up 58% year to date, still down by roughly the same amount",POSITIVE,0.9412453174591064,https://finance.yahoo.com/news/one-winner-in-the-secs-clash-with-crypto-bitcoin-162410185.html
+BTC,Mining difficulty changes every two weeks. Network’s hashrate rises to a record high on Wednesday,NEGATIVE,0.9743916392326355,https://finance.yahoo.com/news/bitcoin-mining-difficulty-rises-2-035731218.html
+BTC,Crusoe sold 50 BTC of future revenue on platform. Switzerland-based Block Green has built marketplace for future hashrate sales,NEGATIVE,0.8978913426399231,https://finance.yahoo.com/news/bitcoin-miner-crusoe-energy-secures-120000509.html
+BTC,MicroStrategy founder says crypto industry destined to be rationalized down. Saylor says public now understands that bitcoin is the ‘next bitcoin’,NEGATIVE,0.9991273283958435,https://finance.yahoo.com/news/crypto-industry-destined-bitcoin-focused-090212070.html
+BTC,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/bitcoin-above-25k-blackrock-etf-143902877.html
+BTC,"Bitcoin falls to lowest level in three months, Ether and BNB drop. Regulators filing new lawsuits, liquidity concerns",NEGATIVE,0.9992530941963196,https://finance.yahoo.com/news/bitcoin-and-tether-sag-as-crypto-markets-face-mounting-pressures-171108426.html
+BTC,Public beta testing for wallet to begin in a few weeks. Global launch expected later this year,NEGATIVE,0.9520249366760254,https://finance.yahoo.com/news/jack-dorsey-backed-bitcoin-wallet-182935178.html
+BTC,All images are copyrighted.,NEGATIVE,0.9880996346473694,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BBTC%26tbm%3Dnws%26pccc%3D1
+BTC,"CoinDesk Market Index (CMI) 1,068 37.0  3.4% Bitcoin (BTC) $25,177 792.9",NEGATIVE,0.9901694655418396,https://finance.yahoo.com/news/first-mover-asia-large-bitcoin-010654210.html
+BTC,USDT stablecoin depegged from $1 dollar peg amid sell-off on Uniswap and Curve pools.,NEGATIVE,0.9977600574493408,https://finance.yahoo.com/news/bitcoin-regains-ground-reach-25-204244572.html
